@@ -3,17 +3,16 @@
 {% endcomment %}
 <div class="jumbotron">
   <div class="row">
-    <div class="col-md-10 col-md-offset-1">
-      <p> 
-  <img src="assets/img/vra.PNG" alt="VRA2019 Workshop Spotlight: Practical Coding for Visual Resources" width="75%" /> 
-</p> 
-      <div class="row">
-        <div class="col-md-6">
-          <p>{{page.humandate}}</p>
-          <p>{% if page.humantime %}{{page.humantime}}{% endif %}</p>
-        </div>
-        <div class="col-md-6">
-          <p>
+    <div class="col-md-6">
+      <p>
+        <img src="assets/img/vra.PNG"
+             alt="VRA2019 Workshop Spotlight: Practical Coding for Visual Resources"
+             width="75%" />
+      </p>
+      <h2>{{page.title}}</h2>
+     </div>
+     <div class="col-md-6">
+      <p>
           <strong>Instructors:</strong>
           {% if page.instructor %}
           {{page.instructor | join: ', ' %}}
@@ -26,9 +25,10 @@
           <strong>Helpers:</strong>
           {{page.helper | join: ', ' %}}
           </p>
-          {% endif %}
-        </div>
-      </div>
+          {% endif %}      </p>
+      <p>{{page.venue}}</p>
+      <p>{{page.humandate}}</p>
+      <p>{% if page.humantime %}{{page.humantime}}{% endif %}</p>
     </div>
   </div>
 </div>
