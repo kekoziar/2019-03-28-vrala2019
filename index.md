@@ -47,7 +47,7 @@ eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "123
 {% endcomment %}
 <p id="accessibility">
   <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody. For specific accessibility information about the venue, see the <a href="https://www.glendaleca.gov/government/departments/library-arts-culture/brand-library-art-center/about-brand-library">Brand Library website</a>.
+  accessible to everybody. For specific accessibility information about the venue, see the <a href="https://doubletree3.hilton.com/en/hotels/california/doubletree-by-hilton-hotel-los-angeles-downtown-LAXDTDT/about/amenities.html">DoubleTree by Hilton Los Angeles Downtown website</a>.
 <p>
   Printed materials will be provided at the workshop and
   large-print handouts are available if needed by notifying the
@@ -58,9 +58,9 @@ eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "123
 
 <p id="contact">
   <strong>Contact</strong>:
-  For registration questions or general workshop logistics, contact
-  <a href="mailto:mallory.furnier@csun.edu">mallory.furnier@csun.edu</a>. For questions about workshop content or software installation,
-  contact <a href="mailto:noah.geraci@ucr.edu">noah.geraci@ucr.edu</a>.
+  For registration questions or general workshop logistics, contact the moderator
+  <a href="mailto:krystal.boehlert@ucr.edu">krystal.boehlert@ucr.edu</a>. For questions about workshop content or software installation,
+  contact <a href="mailto:katherine.koziar@ucr.edu">katherine.koziar@ucr.edu</a>.
 </p>
 
 <p id="survey">
