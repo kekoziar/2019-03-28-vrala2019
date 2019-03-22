@@ -63,7 +63,7 @@ eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "123
   contact <a href="mailto:katherine.koziar@ucr.edu">katherine.koziar@ucr.edu</a>.
 </p>
 
-<p id="survey">
+<!-- p id="survey">
 	<strong>Survey</strong>:
 	{% comment %} DO NOT EDIT SURVEY LINKS {% endcomment %}
 	{% if page.carpentry == "swc" %}
@@ -77,7 +77,7 @@ eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "123
 	{% elsif page.carpentry == "lc" %}
 	The <a href="{{ site.sca_pre_survey }}">pre-workshop survey</a> is a quick, optional survey to help the instructor learn more 	about participants' interests and backgrounds, and better tailor the workshop to your needs.
 	{% endif %}
-</p>
+</p -->
 <hr/>
 
 {% comment %}
