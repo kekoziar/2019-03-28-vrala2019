@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 title: "Practical Coding for Visual Resources: Python & Version Control"
-venue: "Visual Resources Association<br> Annual Conference 2019<br><br>held at DoubleTree by Hilton,<br>Los Angeles Downtown"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Visual Resources Association<br> Annual Conference 2019<br>held at DoubleTree by Hilton,<br>Los Angeles Downtown"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "120 South Los Angeles Street, Los Angeles, CA 90012"  # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
