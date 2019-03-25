@@ -63,7 +63,7 @@ eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "123
   contact <a href="mailto:katherine.koziar@ucr.edu">katherine.koziar@ucr.edu</a>.
 </p>
 
-< p id="survey">
+<p id="survey">
 	<strong>Survey</strong>:
 	{% comment %} DO NOT EDIT SURVEY LINKS {% endcomment %}
 	{% if page.carpentry == "swc" %}
