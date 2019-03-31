@@ -79,7 +79,7 @@ eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "123
 </p >
 
 <p>
-	<strong>Other Resources</strong>:<br>
+	<strong>Other Resources</strong>:
 	The <a href="https://goo.gl/6So6D5" target="_blank">workshop slide deck</a> includes next steps and a small resources
 	list.
 </p>
