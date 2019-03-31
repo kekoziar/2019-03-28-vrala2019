@@ -55,10 +55,6 @@ eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "123
   make it possible for you to participate, please get in touch (using contact details below)
   and we will attempt to provide it.
 </p>
-<p>
-	The <a href="https://goo.gl/6So6D5" target="_blank">workshop slide deck</a> includes next steps and a small resources
-	list.
-</p>
 <p id="contact">
   <strong>Contact</strong>:
   For registration questions or general workshop logistics, contact the moderator
@@ -81,6 +77,13 @@ eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "123
 	The <a href="{{ site.vra_pre_survey }}">pre-workshop survey</a> is a quick, optional survey to help the instructor learn more 	about participants' interests and backgrounds, and better tailor the workshop to your needs.
 	{% endif %}
 </p >
+
+<p>
+	<strong>Other Resources</strong>:<br>
+	The <a href="https://goo.gl/6So6D5" target="_blank">workshop slide deck</a> includes next steps and a small resources
+	list.
+</p>
+
 <hr/>
 
 {% comment %}
