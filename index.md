@@ -55,7 +55,10 @@ eventbrite: # optional: alphanumeric key for Eventbrite registration, e.g., "123
   make it possible for you to participate, please get in touch (using contact details below)
   and we will attempt to provide it.
 </p>
-
+<p>
+	The <a href="https://goo.gl/6So6D5" target="_blank">workshop slide deck</a> includes next steps and a small resources
+	list.
+</p>
 <p id="contact">
   <strong>Contact</strong>:
   For registration questions or general workshop logistics, contact the moderator
