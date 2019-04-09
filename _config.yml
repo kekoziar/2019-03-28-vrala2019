@@ -75,5 +75,5 @@ exclude:
 # Turn off built-in syntax highlighting.
 highlighter: false
 
-# Social
-analytics-id: "UA-137394704-1"
+# Google Analytics
+google_analytics: UA-137394704-1
